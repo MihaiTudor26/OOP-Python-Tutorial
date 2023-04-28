@@ -1,0 +1,6 @@
+Check Number:  443
+Sales tax:  6 %
+Subtotal: 23.14
+Total: 24.53
+Table Number:  17
+Server:  Sonic the Hedgehog
